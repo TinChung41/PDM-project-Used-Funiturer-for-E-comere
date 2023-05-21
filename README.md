@@ -1,6 +1,6 @@
 # PDM-project-Used-Funiturer-for-E-comere
 
-you can access the portal of our group project [here]([url](https://usedfurnituregroup8.000webhostapp.com/))
+you can access the portal of our group project [here](https://usedfurnituregroup8.000webhostapp.com)
 
 # I.	DATABASE MANAGEMENT SYSTEM
 As an integral part of any e-commerce business, a database management system (DBMS) plays a crucial role in managing and organizing data. For furniture e-commerce, the role of a DBMS is even more important as it
